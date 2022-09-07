@@ -14,10 +14,16 @@
 </p>
 <hr />
 
-<h2>Projects</h2>
+<h2 align="center">Projects</h2>
 <p align="center">
     All my projects will be on github -- Contributions are always welcomed -- Top projects will be on my portfolio (whenever I make it)
 </p>
 <hr />
 
-<h2>Social Media</h2>
+<h2 align="center">Social Media</h2>
+<p align="center">
+    Feel free to contact me in:
+</p>
+<p align="center">
+    <a href="https://www.linkedin.com/in/maximo-utrera-89066a225/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="40" height="40"></a>
+</p>
