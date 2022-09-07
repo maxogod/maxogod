@@ -8,7 +8,7 @@
 <hr />
 
 <div align="center">
-    <img src="https://i.ibb.co/jHgVzpc/About-Me-Banner.jpg" width="200" height="60" alt="About Me Banner">
+    <img src="https://i.ibb.co/w7cPNZ9/abtme.png" width="200" height="60" alt="About Me Banner">
 </div>
 <p align="center">
     I'm a information eng. student at Universidad de Buenos Aires currently self studying web development starting with front-end technologies and I aim to become a full-stack engineer; My comfort language is python so I've decided to learn Django for back-end although it's not my main focus at the moment.
