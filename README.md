@@ -16,7 +16,7 @@
 
 <h2 align="center">Projects</h2>
 <p align="center">
-    All my projects will be on github -- Contributions are always welcomed -- Top projects will be on my portfolio (whenever I make it)
+    All my projects will be on github -- Contributions are always welcomed -- Top projects will be on my portfolio website (whenever I build it)
 </p>
 <hr />
 
