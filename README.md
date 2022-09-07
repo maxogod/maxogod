@@ -28,6 +28,8 @@
     <a href="https://www.linkedin.com/in/maximo-utrera-89066a225/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="40" height="40"></a>
     <a href=https://www.instagram.com/maxo_god/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="40" height="40"></a>
     <a href="https://steamcommunity.com/id/maxogodd/" target="_blank"><img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-white.png" width="40" height="40"></a>
-    <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="40" height="40">
-    MaxoGod#8606
+    <figure>
+        <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="40" height="40">
+        <figcaption>MaxoGod#8606</figcaption>
+    </figure>
 </p>
