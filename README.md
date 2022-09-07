@@ -5,8 +5,7 @@
 </div>
 <p align="center">
     Hey welcome to my github! I'm a information eng. student at Universidad de Buenos Aires currently self studying web development starting with front-end technologies and I aim to become a full-stack engineer; My comfort language is python so I've decided to learn Django for back-end although it's not my main focus at the moment.
-    
-    WebApp projects coming soon...
+    ~~~ WebApp projects coming soon ~~~
 </p>
 
 <!--
