@@ -31,5 +31,7 @@
     <a href="https://www.instagram.com/maxo_god" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="40" height="40"></a>
     <a href="https://steamcommunity.com/id/maxogodd/" target="_blank"><img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-white.png" width="40" height="40"></a>
     <a href="https://discord.com/app"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="40" height="40"></a>
-    (MaxoGod#8606)
+    <p align="center">
+    (Ds: MaxoGod#8606)
+    </p>
 </p>
