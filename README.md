@@ -32,6 +32,6 @@
     <a href="https://steamcommunity.com/id/maxogodd/" target="_blank"><img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-white.png" width="40" height="40"></a>
     <a href="https://discord.com/app"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="40" height="40"></a>
     <p align="center">
-    (Ds: MaxoGod#8606)
+    (Dc: MaxoGod#8606)
     </p>
 </p>
