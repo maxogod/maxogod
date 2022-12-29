@@ -11,14 +11,15 @@
     <img src="https://i.ibb.co/w7cPNZ9/abtme.png" width="200" height="60" alt="About Me Banner">
 </div>
 <p align="center">
-    I'm a information eng. student at University of Buenos Aires currently self studying web development starting with front-end technologies and I aim to become a full-stack engineer; My comfort language is python so I've decided to learn Django for back-end although it's not my main focus at the moment.
-    ~~~ WebApp projects coming soon (1st=ScheduleManager) ~~~
+    I'm Software developer and information eng. student at University of Buenos Aires.<br>
+    My main interest is full-stack web development in combination with data analysis and the constant learning of new technologies.<br>
+    Next Project -> Schedule Manager (website to generate and manage diferent calendars and export them to google calendar)
 </p>
 <hr />
 
 <h2 align="center">Projects</h2>
 <p align="center">
-    All my projects will be on github -- Contributions are always welcomed -- Top projects will be on my portfolio website (whenever I build it)
+    All my projects will be on github -- Contributions are always welcomed -- Top projects will be on my <a href="https://maxogod.github.io/" target="_blank"><b>PORTFOLIO WEBSITE</b></a>
 </p>
 <hr />
 
