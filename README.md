@@ -19,7 +19,7 @@
 
 <h2 align="center">Projects</h2>
 <p align="center">
-    All my projects will be on github -- Contributions are always welcomed -- Top projects will be on my <a href="https://maxogod.github.io/" target="_blank"><b>PORTFOLIO WEBSITE</b></a>
+    All my projects will be on github -- Contributions are always welcomed -- Top projects are on my <a href="https://maxogod.github.io/" target="_blank"><b>PORTFOLIO WEBSITE</b></a>
 </p>
 <hr />
 </p>
