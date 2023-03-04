@@ -11,9 +11,9 @@
     <img src="https://i.ibb.co/w7cPNZ9/abtme.png" width="200" height="60" alt="About Me Banner">
 </div>
 <p align="center">
-    I'm Software developer and information eng. student at University of Buenos Aires.<br>
+    I'm a full-stack web developer and information engineering student at University of Buenos Aires<br>
     My main interest is full-stack web development in combination with data analysis and the constant learning of new technologies.<br>
-    Next Project -> Schedule Manager (website to generate and manage diferent calendars and export them to google calendar)
+    Latest Project -> Routine Manager (check it out in my repositories)
 </p>
 <hr />
 
