@@ -22,15 +22,4 @@
     All my projects will be on github -- Contributions are always welcomed -- Top projects will be on my <a href="https://maxogod.github.io/" target="_blank"><b>PORTFOLIO WEBSITE</b></a>
 </p>
 <hr />
-
-<h2 align="center">Social Media</h2>
-<p align="center">
-    Feel free to contact me in:
-</p>
-<p align="center">
-    <a href="https://www.linkedin.com/in/maximo-utrera-89066a225/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="40" height="40"></a>
-    <a href="https://discord.com/app"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="40" height="40"></a>
-    <p align="center">
-    (Dc: MaxoGod#8606)
-    </p>
 </p>
