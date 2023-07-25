@@ -13,7 +13,7 @@
 <p align="center">
     I'm a full-stack web developer and information engineering student at University of Buenos Aires<br>
     My main interest is full-stack web development in combination with data analysis and the constant learning of new technologies.<br>
-    Latest Project -> Routine Manager (check it out in my repositories)
+    (My Gists)[https://gist.github.com/maxogod]
 </p>
 <hr />
 
