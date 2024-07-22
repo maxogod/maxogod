@@ -15,6 +15,6 @@
 
 <hr />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=maxogod&theme=tokyonight&no-bg=false&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maxogod&theme=tokyonight&no-bg=false&no-frame=true&title=MultiLanguage,Commits,Reviews,PR,Repositories,Issues,Followers,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- [![My stats](https://github-readme-stats.vercel.app/api?username=maxogod&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
