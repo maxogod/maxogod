@@ -10,8 +10,8 @@
 
 [![badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/maximo-utrera/)
 [![badge](https://img.shields.io/badge/-Portfolio-gray?logo=gamejolt&logoColor=white)](https://maxogod.github.io/)    
-[![badge](https://img.shields.io/badge/-CV%20(en)-black?logo=readdotcv&logoColor=black&labelColor=white)](https://maxogod.github.io/Maximo%20Utrera%20CV.pdf)
-[![badge](https://img.shields.io/badge/-CV%20(es)-black?logo=readdotcv&logoColor=black&labelColor=white)](https://maxogod.github.io/Maximo%20Utrera%20CV%20-%20Espa%C3%B1ol.pdf)    
+[![badge](https://img.shields.io/badge/-CV%20(en)-black?logo=readdotcv&logoColor=black&labelColor=white)](https://drive.google.com/file/d/1d9GvhNieKARq8_7k2xEvYylxsTE-EVyd/view)
+[![badge](https://img.shields.io/badge/-CV%20(es)-black?logo=readdotcv&logoColor=black&labelColor=white)](https://drive.google.com/file/d/1_58iYXLdfU_IgMbOYfXcsvPTgNuFWtk3/view)    
 [![badge](https://img.shields.io/badge/-Gists-black?logo=github&logoColor=white)](https://gist.github.com/maxogod)
 
 <hr />
