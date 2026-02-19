@@ -4,7 +4,7 @@
 
 <hr />
 
-🍃 My name is Maximo Utrera. I am a Computer Science Engineering student at the University of Buenos Aires 🖥️, currently in my 4th year of studies. With a passion for software development and a strong foundation in various programming languages and technologies, I have dedicated myself to honing my skills through academic courses, personal projects, and professional experiences. I am committed to applying this knowledge to solve real-world problems and create innovative solutions 😄.
+🍃 My name is Maximo Utrera. I am a Software Engineer & Computer Engineering student at the University of Buenos Aires 🖥️. With a passion for software development and a strong foundation in various programming languages and technologies, I have dedicated myself to honing my skills through academic courses, personal projects, and professional experiences. I am committed to applying this knowledge to solve real-world problems and create innovative solutions 😄.
 
 #### More Info
 
