@@ -4,7 +4,7 @@
 
 <hr />
 
-🍃 My name is Maximo Utrera. I am a Software Engineer & Computer Engineering student at the University of Buenos Aires 🖥️. With a passion for software development and a strong foundation in various programming languages and technologies, I have dedicated myself to honing my skills through academic courses, personal projects, and professional experiences. I am committed to applying this knowledge to solve real-world problems and create innovative solutions 😄.
+🍃 My name is Maximo Utrera. I am a Software & Computer Engineer 🖥️ with a passion for software development and a strong foundation in various programming languages and technologies. I have dedicated myself to honing my skills through academic courses, personal projects, and professional experiences and I am committed to applying this knowledge to solve real-world problems and create innovative solutions 😄.
 
 #### More Info
 
@@ -13,9 +13,3 @@
 [![badge](https://img.shields.io/badge/-CV%20(en)-black?logo=readdotcv&logoColor=black&labelColor=white)](https://drive.google.com/file/d/1d9GvhNieKARq8_7k2xEvYylxsTE-EVyd/view)
 [![badge](https://img.shields.io/badge/-CV%20(es)-black?logo=readdotcv&logoColor=black&labelColor=white)](https://drive.google.com/file/d/1_58iYXLdfU_IgMbOYfXcsvPTgNuFWtk3/view)    
 [![badge](https://img.shields.io/badge/-Gists-black?logo=github&logoColor=white)](https://gist.github.com/maxogod)
-
-<hr />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=maxogod&theme=tokyonight&no-bg=false&no-frame=true&title=MultiLanguage,Commits,Reviews,PR,Repositories,Issues,Followers,Stars)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- [![My stats](https://github-readme-stats.vercel.app/api?username=maxogod&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
