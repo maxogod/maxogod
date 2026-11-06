@@ -8,7 +8,7 @@
 
 #### More Info
 
-[![badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/maximo-utrera/)
+[![badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/maximo-utrera/)
 [![badge](https://img.shields.io/badge/-Portfolio-gray?logo=gamejolt&logoColor=white)](https://maxogod.github.io/)    
 [![badge](https://img.shields.io/badge/-CV-black?logo=readdotcv&logoColor=black&labelColor=white)](https://drive.google.com/file/d/1Ss6nMl0H5AExOmoq3SIRiKBlZ5bOURV2/view)
 [![badge](https://img.shields.io/badge/-Gists-black?logo=github&logoColor=white)](https://gist.github.com/maxogod)
